@@ -8,24 +8,23 @@
 <p align="center">
   <!-- Instagram -->
   <a href="https://www.instagram.com/kathirrrrrr0_0/" target="_blank">
-    <img height="50" src="https://user-images.githubusercontent.com/46517096/166974368-9798f39f-1f46-499c-b14e-81f0a3f83a06.png" alt="Instagram"/>
+    <img height="50" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" alt="Instagram"/>
   </a>
   
   <!-- LinkedIn -->
   <a href="https://www.linkedin.com/in/kathir-s-4b5931292/" target="_blank" style="margin: 0 15px;">
-    <img height="50" src="https://user-images.githubusercontent.com/46517096/166973395-144ace8b-e2cc-4f6a-8f0a-1e4a30820f9e.png" alt="LinkedIn"/>
+    <img height="50" src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn"/>
   </a>
   
   <!-- GitHub -->
   <a href="https://github.com/Kathir0-0" target="_blank">
-    <img height="50" src="https://user-images.githubusercontent.com/46517096/166974003-7a6e6c6a-3d6e-4f52-8de6-5c9d84e9505d.png" alt="GitHub"/>
+    <img height="50" src="https://icon-library.com/images/github-icon-white/github-icon-white-6.jpg" alt="GitHub"/>
   </a>
 </p>
 
 <p align="center">
-  <!-- Optimized GIF -->
-  <img src="https://github.com/Kathir0-0/Kathir0-0/assets/your-image-path/benimaru.gif" width="500" alt="Benimaru GIF"/>
-  <!-- Alternative: <img src="https://i.imgur.com/9JQZ3.gif" width="500"/> -->
+  <!-- Working GIF from Giphy -->
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWZqYzVjZ3RjZ3RqZ3RjZ3RjZ3RjZ3RjZ3RjZ3QvY2hhaW5zYXcvYmVuaW1hcnUtc3RhcmUvZ2lm.gif" width="500" alt="Benimaru GIF"/>
 </p>
 
 ---
