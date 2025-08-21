@@ -23,8 +23,8 @@
 </p>
 
 <p align="center">
-  <!-- Working GIF from Giphy -->
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWZqYzVjZ3RjZ3RqZ3RjZ3RjZ3RjZ3RjZ3RjZ3QvY2hhaW5zYXcvYmVuaW1hcnUtc3RhcmUvZ2lm.gif" width="500" alt="Benimaru GIF"/>
+  <!-- Your Working Benimaru GIF -->
+  <img src="https://media1.tenor.com/m/BfruARZnPNQAAAAC/benimaru-shinmon.gif" width="500" alt="Benimaru Shinmon GIF"/>
 </p>
 
 ---
